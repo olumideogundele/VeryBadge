@@ -4,9 +4,8 @@
 	id        = "com.binarysoft.emumap"
 	versionCode="1"
 	version   = "1.0">
-    <name>New Badge</name>
-    <description>
-Shift Clocking Made easy	</description>
+    <name>NvWET Badge</name>
+    <description>badge is not cool at all	</description>
 <author href="google.com" email="olumideogundele@gmail.com">
 olumide</author>
  <preference name="permissions" value="none"/>
